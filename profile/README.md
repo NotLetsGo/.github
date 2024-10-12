@@ -1,11 +1,9 @@
-## NotLetsGo
-<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotLetsGo&show_icons=true&theme=shadow_red&text_bold=true&include_all_commits=true)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotLetsGo&theme=shadow_red&layout=donut&text_bold=true&card_width=500)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NotLetsGo&theme=shadow_red&text_bold=true&card_width=500)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/NotLetsGo/count.svg" />
+</p>
